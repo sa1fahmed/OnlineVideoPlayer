@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Online Video Player</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="web_client_id">216078909918-vna8jchuopiq04jfli80mvd6dt1gq5kc.apps.googleusercontent.com</string>
+    <!--
+   <string name="web_client_id">216078909918-i4uubcgc5g8o3sgr6bdgei0dmjtfthsh.apps.googleusercontent.com</string>
+-->
+
+</resources>

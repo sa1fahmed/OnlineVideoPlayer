@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216078909918",
+    "firebase_url": "https://online-video-player-a4523.firebaseio.com",
+    "project_id": "online-video-player-a4523",
+    "storage_bucket": "online-video-player-a4523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216078909918:android:d9f17e631507f3f8",
+        "android_client_info": {
+          "package_name": "com.example.onlinevideoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216078909918-5bp49b628g63rjr6mrhiot6oh990vijk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinevideoplayer",
+            "certificate_hash": "a8f7b63d76d90338570285bd5260edac406327cb"
+          }
+        },
+        {
+          "client_id": "216078909918-vna8jchuopiq04jfli80mvd6dt1gq5kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKZRfmQ1xPvDPG745fQ8rWHTuo_ASIHEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216078909918-vna8jchuopiq04jfli80mvd6dt1gq5kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
